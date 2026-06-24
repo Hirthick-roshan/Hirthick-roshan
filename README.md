@@ -13,15 +13,15 @@
 I'm an **AI & Machine Learning Engineer** based in Bengaluru, India, with a focus on building production-grade intelligent systems — not just notebooks. I work across the full ML lifecycle: from data pipelines and model training to deployment and evaluation.
 
 Currently building:
-- 🤖 RAG systems with multi-model retrieval architectures
-- 💼 AI-powered hiring platforms (TypeScript + LLM APIs)
-- 🧠 Code assistant chatbots using fine-tuned LLMs
+- RAG systems with multi-model retrieval architectures
+- AI-powered hiring platforms (TypeScript + LLM APIs)
+- Code assistant chatbots using fine-tuned LLMs
 
 > *"The goal is not to build models. The goal is to build systems that work."*
 
-- 📍 Bengaluru, India
-- 🔭 Open to AI/ML collaborations and research opportunities
-- 📫 Reach me: [github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)
+-  Bengaluru, India
+-  Open to AI/ML collaborations and research opportunities
+-  Reach me: [github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)
 
 ---
 
