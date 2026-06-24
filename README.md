@@ -21,7 +21,7 @@ Currently building:
 
 -  Bengaluru, India
 -  Open to AI/ML collaborations and research opportunities
--  Reach me: [github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)
+-  Reach me: [hirthickroshan24@gmail.com](Hirthickroshan24@gmail.com)
 
 ---
 
