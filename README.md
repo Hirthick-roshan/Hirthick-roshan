@@ -55,18 +55,6 @@ Currently building:
 
 ---
 
-## Featured projects
-
-<div align="center">
-
-[![AI Hiring Platform](https://github-readme-stats.vercel.app/api/pin/?username=Hirthick-roshan&repo=AI-HIRING-PLATFORM&theme=tokyonight&hide_border=true)](https://github.com/Hirthick-roshan/AI-HIRING-PLATFORM)
-[![Multi-Model RAG System](https://github-readme-stats.vercel.app/api/pin/?username=Hirthick-roshan&repo=MULTI-MODEL-RAG-SYSTEM&theme=tokyonight&hide_border=true)](https://github.com/Hirthick-roshan/MULTI-MODEL-RAG-SYSTEM)
-[![Code Assistant Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Hirthick-roshan&repo=CODE-ASSISTENT-CHATBOT&theme=tokyonight&hide_border=true)](https://github.com/Hirthick-roshan/CODE-ASSISTENT-CHATBOT)
-
-</div>
-
----
-
 ## GitHub stats
 
 <div align="center">
