@@ -59,9 +59,7 @@ Currently building:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hirthick-roshan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick-roshan&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hirthick-roshan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
