@@ -120,14 +120,7 @@ Full-stack hiring platform (FastAPI + React) with semantic similarity scoring, c
 
 <br/>
 
-## GitHub Analytics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hirthick-roshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirthick-roshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hirthick-roshan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6" width="60%"/>
-</div>
 
 > These stat widgets are driven by your GitHub username in the URL — confirm `hirthick-roshan` matches your exact GitHub handle once this file is live in your profile repo.
 
