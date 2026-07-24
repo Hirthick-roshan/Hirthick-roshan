@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER SECTION -->
-<svg viewBox="0 0 1200 420" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 420" width="100%" height="auto" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -111,8 +111,8 @@
 <br/><br/>
 
 <!-- ANIMATED TYPING LINE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=600&height=40&lines=Building+AI+that+solves+real+problems.;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;FastAPI+%E2%80%A2+Python+%E2%80%A2+Machine+Learning" alt="Typing SVG" />
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+  <img src="[https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=600&height=40&lines=Building+AI+that+solves+real+problems.;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;FastAPI+%E2%80%A2+Python+%E2%80%A2+Machine+Learning](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=600&height=40&lines=Building+AI+that+solves+real+problems.;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;FastAPI+%E2%80%A2+Python+%E2%80%A2+Machine+Learning)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -121,7 +121,7 @@
 
 <!-- TECH STACK SECTION -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STACK-ARCHITECTURE-000000?style=for-the-badge&logoColor=white" fill="none"/>
+  <img src="[https://img.shields.io/badge/STACK-ARCHITECTURE-000000?style=for-the-badge&logoColor=white](https://img.shields.io/badge/STACK-ARCHITECTURE-000000?style=for-the-badge&logoColor=white)" fill="none"/>
 </p>
 
 <br/>
@@ -130,45 +130,45 @@
 <table>
   <tr>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="42" height="42" alt="Python"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>Python</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)" width="42" height="42" alt="FastAPI"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>FastAPI</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)" width="42" height="42" alt="TensorFlow"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>TensorFlow</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)" width="42" height="42" alt="PyTorch"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>PyTorch</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://raw.githubusercontent.com/valohai/rebrand-icons/main/png/langchain-white.png" width="42" height="42" alt="LangGraph"/><br/><br/>
+      <img src="[https://raw.githubusercontent.com/valohai/rebrand-icons/main/png/langchain-white.png](https://raw.githubusercontent.com/valohai/rebrand-icons/main/png/langchain-white.png)" width="42" height="42" alt="LangGraph"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>LangGraph</b></font>
     </td>
   </tr>
   <tr>
     <td align="center" width="110" height="110">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" alt="HuggingFace"/><br/><br/>
+      <img src="[https://huggingface.co/front/assets/huggingface_logo-noborder.svg](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="42" height="42" alt="HuggingFace"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>HuggingFace</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" width="42" height="42" alt="Docker"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>Docker</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="42" height="42" alt="React"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>React</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="SQL"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" width="42" height="42" alt="SQL"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>SQL</b></font>
     </td>
     <td align="center" width="110" height="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br/><br/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="42" height="42" alt="Git"/><br/><br/>
       <font size="2" color="#9CA3AF"><b>Git</b></font>
     </td>
   </tr>
@@ -180,14 +180,14 @@
 
 <!-- FEATURED PROJECTS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FEATURED-SYSTEMS-000000?style=for-the-badge&logoColor=white" fill="none"/>
+  <img src="[https://img.shields.io/badge/FEATURED-SYSTEMS-000000?style=for-the-badge&logoColor=white](https://img.shields.io/badge/FEATURED-SYSTEMS-000000?style=for-the-badge&logoColor=white)" fill="none"/>
 </p>
 
 <br/>
 
 <!-- Project 1 -->
-<a href="https://github.com/Hirthick-roshan">
-  <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<a href="[https://github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)">
+  <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
     <rect width="800" height="130" rx="16" fill="#121318" stroke="#262626" stroke-width="1"/>
     <rect x="0" y="0" width="6" height="130" rx="3" fill="#6366F1"/>
     <rect x="30" y="35" width="60" height="60" rx="12" fill="#1E1E24" stroke="#333333"/>
@@ -208,8 +208,8 @@
 <br/>
 
 <!-- Project 2 -->
-<a href="https://github.com/Hirthick-roshan">
-  <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<a href="[https://github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)">
+  <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
     <rect width="800" height="130" rx="16" fill="#121318" stroke="#262626" stroke-width="1"/>
     <rect x="0" y="0" width="6" height="130" rx="3" fill="#8B5CF6"/>
     <rect x="30" y="35" width="60" height="60" rx="12" fill="#1E1E24" stroke="#333333"/>
@@ -230,8 +230,8 @@
 <br/>
 
 <!-- Project 3 -->
-<a href="https://github.com/Hirthick-roshan">
-  <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<a href="[https://github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)">
+  <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
     <rect width="800" height="130" rx="16" fill="#121318" stroke="#262626" stroke-width="1"/>
     <rect x="0" y="0" width="6" height="130" rx="3" fill="#D946EF"/>
     <rect x="30" y="35" width="60" height="60" rx="12" fill="#1E1E24" stroke="#333333"/>
@@ -255,38 +255,38 @@
 
 <!-- METRICS & STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/METRICS-TELEMETRY-000000?style=for-the-badge&logoColor=white" fill="none"/>
+  <img src="[https://img.shields.io/badge/METRICS-TELEMETRY-000000?style=for-the-badge&logoColor=white](https://img.shields.io/badge/METRICS-TELEMETRY-000000?style=for-the-badge&logoColor=white)" fill="none"/>
 </p>
 
 <br/>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Hirthick-roshan&show_icons=true&theme=dark&bg_color=0D0D11&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B5CF6&border_color=262626&hide_border=false&border_radius=16" fill="none" width="490"/>
+<img src="[https://github-readme-stats.vercel.app/api?username=Hirthick-roshan&show_icons=true&theme=dark&bg_color=0D0D11&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B5CF6&border_color=262626&hide_border=false&border_radius=16](https://github-readme-stats.vercel.app/api?username=Hirthick-roshan&show_icons=true&theme=dark&bg_color=0D0D11&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B5CF6&border_color=262626&hide_border=false&border_radius=16)" fill="none" width="490"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hirthick-roshan&theme=react-dark&bg_color=0D0D11&hide_border=false&border_color=262626&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_title=true" fill="none" width="800"/>
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Hirthick-roshan&theme=react-dark&bg_color=0D0D11&hide_border=false&border_color=262626&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_title=true](https://github-readme-activity-graph.vercel.app/graph?username=Hirthick-roshan&theme=react-dark&bg_color=0D0D11&hide_border=false&border_color=262626&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_title=true)" fill="none" width="800"/>
 
 <br/><br/>
 <hr fill="#1F2937" height="1px" stroke="none"/>
 <br/>
 
 <!-- MINIMAL CONTACT FOOTER -->
-<a href="https://linkedin.com/in/Hirthick-roshan">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="35"/>
+<a href="[https://linkedin.com/in/Hirthick-roshan](https://linkedin.com/in/Hirthick-roshan)">
+  <img src="[https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)" height="35"/>
 </a>
 &nbsp;
-<a href="https://github.com/Hirthick-roshan">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="35"/>
+<a href="[https://github.com/Hirthick-roshan](https://github.com/Hirthick-roshan)">
+  <img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)" height="35"/>
 </a>
 &nbsp;
 <a href="mailto:your.email@domain.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="35"/>
+  <img src="[https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)" height="35"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/Hirthick-roshan">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="35"/>
+<a href="[https://leetcode.com/Hirthick-roshan](https://leetcode.com/Hirthick-roshan)">
+  <img src="[https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)" height="35"/>
 </a>
 
 <br/><br/>
