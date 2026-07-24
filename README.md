@@ -53,8 +53,8 @@
     </pattern>
 
     <style>
-      .title { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif; font-weight: 800; font-size: 54px; letter-spacing: -1.5px; }
-      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif; font-weight: 600; font-size: 18px; letter-spacing: 3px; text-transform: uppercase; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif; font-weight: 800; font-size: 52px; letter-spacing: -1.5px; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif; font-weight: 600; font-size: 17px; letter-spacing: 3px; text-transform: uppercase; }
       .badge-text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif; font-weight: 500; font-size: 13px; letter-spacing: 0.5px; }
       
       @keyframes float {
@@ -93,7 +93,7 @@
     </g>
 
     <!-- Main Typography -->
-    <text x="540" y="150" text-anchor="middle" fill="url(#text-grad)" class="title">YOUR NAME</text>
+    <text x="540" y="150" text-anchor="middle" fill="url(#text-grad)" class="title">HIRTHICK ROSHAN</text>
     <text x="540" y="195" text-anchor="middle" fill="url(#accent-grad)" class="subtitle">AI ENGINEER &nbsp;•&nbsp; MACHINE LEARNING ENGINEER</text>
 
     <!-- Minimal Modern Divider Line -->
@@ -186,25 +186,20 @@
 <br/>
 
 <!-- Project 1 -->
-<a href="https://github.com/yourusername/project-1">
+<a href="https://github.com/Hirthick-roshan">
   <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
     <rect width="800" height="130" rx="16" fill="#121318" stroke="#262626" stroke-width="1"/>
-    <!-- Glass accent left bar -->
     <rect x="0" y="0" width="6" height="130" rx="3" fill="#6366F1"/>
-    <!-- Icon Placeholder -->
     <rect x="30" y="35" width="60" height="60" rx="12" fill="#1E1E24" stroke="#333333"/>
     <text x="60" y="72" fill="#8B5CF6" font-family="-apple-system, sans-serif" font-weight="700" font-size="24" text-anchor="middle">📄</text>
-    <!-- Content -->
     <text x="110" y="52" fill="#FFFFFF" font-family="-apple-system, sans-serif" font-weight="700" font-size="18">AI Resume Screening Platform</text>
     <text x="110" y="76" fill="#9CA3AF" font-family="-apple-system, sans-serif" font-weight="400" font-size="13">Automated candidate analysis using fine-tuned LLMs and semantic extraction.</text>
-    <!-- Tech Stack Pills -->
     <rect x="110" y="90" width="70" height="20" rx="6" fill="#1F1F2E"/>
     <text x="145" y="104" fill="#A5B4FC" font-family="-apple-system, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Python</text>
     <rect x="188" y="90" width="70" height="20" rx="6" fill="#1F1F2E"/>
     <text x="223" y="104" fill="#A5B4FC" font-family="-apple-system, sans-serif" font-size="10" font-weight="600" text-anchor="middle">FastAPI</text>
     <rect x="266" y="90" width="90" height="20" rx="6" fill="#1F1F2E"/>
     <text x="311" y="104" fill="#A5B4FC" font-family="-apple-system, sans-serif" font-size="10" font-weight="600" text-anchor="middle">HuggingFace</text>
-    <!-- Arrow Action -->
     <circle cx="740" cy="65" r="18" fill="#1E1E24"/>
     <path d="M735 65 L745 65 M741 60 L746 65 L741 70" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
   </svg>
@@ -213,7 +208,7 @@
 <br/>
 
 <!-- Project 2 -->
-<a href="https://github.com/yourusername/project-2">
+<a href="https://github.com/Hirthick-roshan">
   <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
     <rect width="800" height="130" rx="16" fill="#121318" stroke="#262626" stroke-width="1"/>
     <rect x="0" y="0" width="6" height="130" rx="3" fill="#8B5CF6"/>
@@ -235,7 +230,7 @@
 <br/>
 
 <!-- Project 3 -->
-<a href="https://github.com/yourusername/project-3">
+<a href="https://github.com/Hirthick-roshan">
   <svg viewBox="0 0 800 130" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
     <rect width="800" height="130" rx="16" fill="#121318" stroke="#262626" stroke-width="1"/>
     <rect x="0" y="0" width="6" height="130" rx="3" fill="#D946EF"/>
@@ -265,33 +260,24 @@
 
 <br/>
 
-<!-- GitHub Stats Dark Theme Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0D0D11&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B5CF6&border_color=262626&hide_border=false&border_radius=16" fill="none" width="490"/>
-
-<br/><br/>
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="800">
-</picture>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Hirthick-roshan&show_icons=true&theme=dark&bg_color=0D0D11&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B5CF6&border_color=262626&hide_border=false&border_radius=16" fill="none" width="490"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D0D11&hide_border=false&border_color=262626&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_title=true" fill="none" width="800"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hirthick-roshan&theme=react-dark&bg_color=0D0D11&hide_border=false&border_color=262626&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_title=true" fill="none" width="800"/>
 
 <br/><br/>
 <hr fill="#1F2937" height="1px" stroke="none"/>
 <br/>
 
 <!-- MINIMAL CONTACT FOOTER -->
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/Hirthick-roshan">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="35"/>
 </a>
 &nbsp;
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Hirthick-roshan">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="35"/>
 </a>
 &nbsp;
@@ -299,7 +285,7 @@
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="35"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/yourusername">
+<a href="https://leetcode.com/Hirthick-roshan">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="35"/>
 </a>
 
